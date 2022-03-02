@@ -1,0 +1,38 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    background-color: rgb(255, 103, 204);
+    color: blueviolet;
+    font-weight: bold;
+    font-family: comic sans ms;
+}
+
+#status {
+    font-size: 20px;
+    background-color: aqua;
+    font-weight: bold;
+    font-family: 'Lucida Sans';
+}
+
+#no_of_objects {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Lucida Sans';
+}
+
+canvas {
+    margin-top: 30px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px purple;
+}
+
+#note {
+    font-size: 18px;
+    color: yellow;
+    font-family: 'roboto';
+}
